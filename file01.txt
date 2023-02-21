@@ -8,3 +8,6 @@ update count=1
 insert a=1;
 >>>>>>> master
 >>>>>>> hot-fix
+
+xiaobai
+pull to the local
